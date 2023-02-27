@@ -9,7 +9,7 @@ public class HomeController {
 	public String home() {
 		
 		System.out.println("hello");
-		System.out.println("Hello Pushed By faraz");
+		System.out.println("Hello Pushed By faraz shaikh");
 		
 		return "home";
 		
