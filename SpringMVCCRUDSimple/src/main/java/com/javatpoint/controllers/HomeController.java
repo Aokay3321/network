@@ -11,6 +11,7 @@ public class HomeController {
 		System.out.println("hello");
 		System.out.println("Hello Pushed By faraz shaikh");
 		System.out.println("hello from ap");
+		System.out.println("jadjf");
 		return "home";
 		
 	  
